@@ -4,9 +4,7 @@
 
 **Theme:** GitHub · **Style:** Creative · **Agent:** Full-Stack Engineer
 
-## Header
-> Editing this section in the inspector.
-Hi, I'm **himanshucode-07**. This README is tuned for **personal brand** with a GitHub visual system.
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=himanshucode-07&theme=github-dark&mode=light" />
